@@ -23,15 +23,10 @@
 - Model training pipelines, dataset preprocessing, hyperparameter tuning
 ---
 
-# 📈 GitHub Stats (Neon Gradient Style)
+# 📈 GitHub Stats
 
 <p align="center">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=thx2an&theme=radical&border_radius=10"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thx2an&show_icons=true&theme=radical&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thx2an&layout=compact&theme=radical&border_radius=10" />
 </p>
 
 ---
