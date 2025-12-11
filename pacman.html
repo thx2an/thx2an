@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Pacman Runner</title>
+<style>
+  body {
+    background: #000;
+    margin: 0;
+  }
+  canvas {
+    display: block;
+    margin: 0 auto;
+    background: #000;
+  }
+</style>
+</head>
+<body>
+<canvas id="game" width="600" height="200"></canvas>
+
+<script>
+const canvas = document.getElementById("game");
+const ctx = canvas.getContext("2d");
+
+let pacman = {
+  x: 20,
+  y: 100,
+  size: 25,
+  speed: 2.5,
+  mouth: 0,
+  open: true
+};
+
+let dots = [];
+for (let i = 0; i < 20; i++) {
+  dots.push({ x: 100 + i * 25, y: 110 });
+}
+
+function drawPacman() {
+  ctx.fillStyle = "yellow";
+  ctx.beginPath();
+
+  let mouthAngle = pacman.mouth * 0.25;
+
+  ctx.moveTo(pacman.x, pacman.y);
+  ctx.arc(
+    pacman.x,
+    pacman.y,
+    pacman.size,
+    mouthAngle,
+    Math.PI * 2 - mouthAngle
+  );
+
+  ctx.closePath();
+  ctx.fill();
+
+  // animate mouth
+  if (pacman.open) pacman.mouth += 0.1;
+  else pacman.mouth -= 0.1;
+
+  if (pacman.mouth > 1) pacman.open = false;
+  if (pacman.mouth < 0) pacman.open = true;
+}
+
+function drawDots() {
+  ctx.fillStyle = "white";
+  dots.forEach(d => {
+    ctx.beginPath();
+    ctx.arc(d.x, d.y, 5, 0, Math.PI * 2);
+    ctx.fill();
+  });
+}
+
+function update() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+  pacman.x += pacman.speed;
+
+  // Eat dots when touching
+  dots = dots.filter(d => Math.abs(d.x - pacman.x) > 20);
+
+  if (pacman.x > canvas.width + 30) pacman.x = -30;
+
+  drawPacman();
+  drawDots();
+
+  requestAnimationFrame(update);
+}
+
+update();
+</script>
+</body>
+</html>
