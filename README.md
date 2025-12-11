@@ -36,15 +36,6 @@
 
 ---
 
-# 🌈 Activity Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thx2an/github-profile-3d-contrib/main/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
-</p>
-
----
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
