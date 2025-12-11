@@ -3,6 +3,10 @@
 </h1>
 
 ## 👾 Pac-Man Runner
+<p align="center">
+  <a href="https://thx2an.github.io/thx2an/pacman.html" target="_blank">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hampusborgos/pacman-canvas/master/docs/pacman.gif" width="480" />
