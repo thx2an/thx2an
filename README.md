@@ -2,18 +2,6 @@
   Heyyyyy, I'm Thanh, nice too see you in my profile!! 🐾
 </h1>
 
-<p align="center">
-  <img src="avatar.png" width="180" style="border-radius:50%; box-shadow: 0 0 25px #3bd3ff, 0 0 50px #009dff;" alt="thx2an avatar" />
-</p>
-
-<p align="center">
-  <img src="https://d2ph5fj80uercy.cloudfront.net/05/cyberpunk-cityscape-ocean-blue-5k-wallpaper.jpg" width="100%" alt="banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=500&lines=Data+Engineer;SQL+%7C+Python+%7C+dbt;BigQuery+%7C+GCP;Always+Learning+More+🚀" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 👾 Pac-Man Runner
