@@ -2,8 +2,6 @@
   Heyyyyy, I'm Thanh, nice too see you in my profile!! 🐾
 </h1>
 
----
-
 ## 👾 Pac-Man Runner
 
 <p align="center">
