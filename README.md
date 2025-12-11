@@ -2,18 +2,6 @@
   Heyyyyy, I'm Thanh, nice too see you in my profile!! 🐾
 </h1>
 
-## 👾 Pac-Man Runner
-<p align="center">
-  <a href="https://thx2an.github.io/thx2an/pacman.html" target="_blank">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hampusborgos/pacman-canvas/master/docs/pacman.gif" width="480" />
-</p>
-
----
-
 ## 🌐 About Me
 - 🧠 Interested in algorithms, AI, models, neural networks, optimization, and building models using **Python, TensorFlow, PyTorch,** and modern ML tooling.  
 - 💡 Also experienced in production engineering: Next.js, TypeScript, PHP, Node.js, and scalable ML infra.
