@@ -52,6 +52,8 @@ E --> F[Deployment]
 
 + 📦 Clean architecture, reproducibility, and scalability
 
+```
+
 📈 GitHub Stats
 
 <p align="center">
