@@ -2,13 +2,13 @@
   Heyyyyy, I'm Thanh, nice too see you in my profile!! 🐾
 </h1>
 
-<p>
+<p align="center" style="font-weight:700; font-size:42px;">
 I build systems where <b>algorithms become models</b>,<br/>
 and <b>models become real-world products</b>.
 </p>
 
 ## 🌐 About Me
-``yaml
+```yaml
 focus:
 - Algorithms & Optimization
 - Neural Networks & Deep Learning
