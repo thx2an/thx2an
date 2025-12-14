@@ -2,9 +2,22 @@
   Heyyyyy, I'm Thanh, nice too see you in my profile!! 🐾
 </h1>
 
+<p>
+I build systems where <b>algorithms become models</b>,<br/>
+and <b>models become real-world products</b>.
+</p>
+
 ## 🌐 About Me
-- 🧠 Interested in algorithms, AI, models, neural networks, optimization, and building models using **Python, TensorFlow, PyTorch,** and modern ML tooling.  
-- 💡 Also experienced in production engineering: Next.js, TypeScript, PHP, Node.js, and scalable ML infra.
+``yaml
+focus:
+- Algorithms & Optimization
+- Neural Networks & Deep Learning
+- End-to-End ML Systems
+
+mindset:
+- Research-driven
+- Production-aware
+- Scalability-first
 
 ---
 
@@ -23,7 +36,22 @@
 - Model training pipelines, dataset preprocessing, hyperparameter tuning
 ---
 
-# 📈 GitHub Stats
+##🧪 How I Build ML Systems
+graph LR
+A[Raw Data] --> B[Preprocessing]
+B --> C[Model Training]
+C --> D[Evaluation]
+D --> E[Optimization]
+E --> F[Deployment]
+
+##🚀 What Sets Me Apart
+###🔬 Strong theoretical grounding + practical execution
+
+###🏗️ Comfortable bridging ML research → production engineering
+
+###📦 Clean architecture, reproducibility, and scalability
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=thx2an&theme=radical&border_radius=10"/>
