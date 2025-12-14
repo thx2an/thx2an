@@ -21,22 +21,23 @@ mindset:
 
 ---
 
-## ⚡ Tech Stack
-### Frontend
+⚡ Tech Stack
++ Frontend
 - React / Next.js / Vite / Tailwind
 
-### Backend / APIs
++ Backend / APIs
 - Node.js, Express, Next.js (API routes)
 - TypeScript
 - PHP (legacy / integrations)
 
-### ML / Data / Training
++ ML / Data / Training
 - Python, NumPy, Pandas
 - TensorFlow, PyTorch
 - Model training pipelines, dataset preprocessing, hyperparameter tuning
 ---
 
-##🧪 How I Build ML Systems
+🧪 How I Build ML Systems
+
 graph LR
 A[Raw Data] --> B[Preprocessing]
 B --> C[Model Training]
@@ -44,14 +45,14 @@ C --> D[Evaluation]
 D --> E[Optimization]
 E --> F[Deployment]
 
-##🚀 What Sets Me Apart
-###🔬 Strong theoretical grounding + practical execution
+🚀 What Sets Me Apart
++ 🔬 Strong theoretical grounding + practical execution
 
-###🏗️ Comfortable bridging ML research → production engineering
++ 🏗️ Comfortable bridging ML research → production engineering
 
-###📦 Clean architecture, reproducibility, and scalability
++ 📦 Clean architecture, reproducibility, and scalability
 
-## 📈 GitHub Stats
+📈 GitHub Stats
 
 <p align="center">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=thx2an&theme=radical&border_radius=10"/>
