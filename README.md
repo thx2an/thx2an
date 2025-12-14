@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center" style="font-weight:700; font-size:42px;">
-I build systems where <b>algorithms become models</b>,<br/>
-and <b>models become real-world products</b>.
+Just beginner are venturing into the world of AI with the <b>ambition</b> to control and apply it to <b>create amazing things.</b>
 </p>
 
 ## 🌐 About Me
