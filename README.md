@@ -13,7 +13,7 @@
 
 ---
 
-## 🌐 About Me
+## About Me
 
 ```yaml
 name: Thanh (thx2an)
@@ -36,9 +36,9 @@ currently:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🤖 AI / ML / DL
+### AI / ML / DL
 <p align="left">
   <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7aa2f7" />
   <img src="https://img.shields.io/badge/PyTorch-1a1b27?style=for-the-badge&logo=pytorch&logoColor=7aa2f7" />
@@ -49,7 +49,7 @@ currently:
   <img src="https://img.shields.io/badge/Jupyter-1a1b27?style=for-the-badge&logo=jupyter&logoColor=7aa2f7" />
 </p>
 
-### ⚙️ MLOps & Infra
+### MLOps & Infra
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=bb9af7" />
   <img src="https://img.shields.io/badge/Kubernetes-1a1b27?style=for-the-badge&logo=kubernetes&logoColor=bb9af7" />
@@ -62,7 +62,7 @@ currently:
   <img src="https://img.shields.io/badge/GitHub_Actions-1a1b27?style=for-the-badge&logo=githubactions&logoColor=bb9af7" />
 </p>
 
-### 🔌 Backend / APIs
+### Backend / APIs
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=7dcfff" />
   <img src="https://img.shields.io/badge/Express-1a1b27?style=for-the-badge&logo=express&logoColor=7dcfff" />
@@ -70,7 +70,7 @@ currently:
   <img src="https://img.shields.io/badge/PHP-1a1b27?style=for-the-badge&logo=php&logoColor=7dcfff" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=9ece6a" />
   <img src="https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=nextdotjs&logoColor=9ece6a" />
@@ -78,31 +78,31 @@ currently:
   <img src="https://img.shields.io/badge/Tailwind_CSS-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=9ece6a" />
 </p>
 
-### ☁️ Cloud
+### Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&labelColor=1a1b27" />
 </p>
 
 ---
 
-## 🧪 How I Build ML Systems
+## How I Build ML Systems
 
 <p align="center">
-  <b>📊 Raw Data</b> → <b>🧹 Preprocessing</b> → <b>🧠 Model Training</b> → <b>📏 Evaluation</b> → <b>⚙️ Optimization</b> → <b>🚀 Deployment</b> → <b>📡 Monitoring / AIOps</b>
+  <b>Raw Data</b> → <b>Preprocessing</b> → <b>Model Training</b> → <b>Evaluation</b> → <b>Optimization</b> → <b>Deployment</b> → <b>Monitoring / AIOps</b>
 </p>
 
 <p align="center"><sub>↺ continuous feedback loop — monitoring signals feed straight back into retraining</sub></p>
 
-## 🚀 What Sets Me Apart
+## What Sets Me Apart
 
-- 🔬 Strong theoretical grounding + practical execution
-- 🏗️ Comfortable bridging ML research → production engineering
-- 📦 Clean architecture, reproducibility, and scalability
-- 🔁 Thinks in feedback loops — monitoring and retraining, not just training
+- Strong theoretical grounding + practical execution
+- Comfortable bridging ML research → production engineering
+- Clean architecture, reproducibility, and scalability
+- Thinks in feedback loops — monitoring and retraining, not just training
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=thx2an&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="thx2an's GitHub stats" />
@@ -119,7 +119,7 @@ currently:
 
 ---
 
-## 📡 Connect
+## Connect
 
 <p align="center">
   <a href="https://github.com/thx2an"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" /></a>
