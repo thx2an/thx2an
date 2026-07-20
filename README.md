@@ -78,20 +78,20 @@ currently:
   <img src="https://img.shields.io/badge/Tailwind_CSS-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=9ece6a" />
 </p>
 
+### ☁️ Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&labelColor=1a1b27" />
+</p>
+
 ---
 
 ## 🧪 How I Build ML Systems
 
-```mermaid
-graph LR
-    A[📊 Raw Data] --> B[🧹 Preprocessing]
-    B --> C[🧠 Model Training]
-    C --> D[📏 Evaluation]
-    D --> E[⚙️ Optimization]
-    E --> F[🚀 Deployment]
-    F --> G[📡 Monitoring / AIOps]
-    G -.feedback loop.-> A
-```
+<p align="center">
+  <b>📊 Raw Data</b> → <b>🧹 Preprocessing</b> → <b>🧠 Model Training</b> → <b>📏 Evaluation</b> → <b>⚙️ Optimization</b> → <b>🚀 Deployment</b> → <b>📡 Monitoring / AIOps</b>
+</p>
+
+<p align="center"><sub>↺ continuous feedback loop — monitoring signals feed straight back into retraining</sub></p>
 
 ## 🚀 What Sets Me Apart
 
