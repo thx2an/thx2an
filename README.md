@@ -105,16 +105,20 @@ currently:
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thx2an&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="thx2an's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thx2an&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://raw.githubusercontent.com/thx2an/thx2an/main/metrics/overview.svg" alt="thx2an's GitHub stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/thx2an/thx2an/main/metrics/languages.svg" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=thx2an&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="60%" src="https://raw.githubusercontent.com/thx2an/thx2an/main/metrics/streak.svg" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thx2an/thx2an/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thx2an/thx2an/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/thx2an/thx2an/output/github-snake.svg" alt="contribution snake" />
+  </picture>
 </p>
 
 ---
