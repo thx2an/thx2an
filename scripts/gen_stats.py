@@ -67,6 +67,7 @@ query($login: String!, $cursor: String) {
       after: $cursor
       ownerAffiliations: OWNER
       isFork: false
+      privacy: PUBLIC
     ) {
       totalCount
       pageInfo { hasNextPage endCursor }
